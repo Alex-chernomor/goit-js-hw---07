@@ -1,0 +1,9 @@
+.img-li img {
+  display: block;
+  width: 500px;
+  margin-bottom: 5px;
+}
+
+#gallery {
+  list-style: none;
+}
